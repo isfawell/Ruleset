@@ -7,3 +7,6 @@ payload:
   - '+.intlgame.com'
   - '+.iegcom.com'
   - '+.measurement.com
+  - '+.honorofkings.com
+  - '+.singaporepaya.com
+  - '+.gcloudcs.com
