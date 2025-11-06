@@ -1,12 +1,4 @@
 # 自定义域名
 payload:
   - '+.sgameglobal.com'
-  - '+.listdl.com'
-  - '+.wetest.net'
-  - '+.appsflyersdk.com'
-  - '+.intlgame.com'
-  - '+.iegcom.com'
-  - '+.measurement.com
   - '+.honorofkings.com
-  - '+.singaporepaya.com
-  - '+.gcloudcs.com
