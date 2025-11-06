@@ -6,3 +6,4 @@ payload:
   - '+.appsflyersdk.com'
   - '+.intlgame.com'
   - '+.iegcom.com'
+  - '+.measurement.com
