@@ -1,0 +1,8 @@
+# 自定义域名
+payload:
+  - '+.sgamoglobal.com'
+  - '+.listdl.com'
+  - '+.wetest.net'
+  - '+.appsflyersdk.com'
+  - '+.intlgame.com'
+  - '+.iegcom.com'
