@@ -2,3 +2,4 @@
 payload:
   - '+.sgameglobal.com'
   - '+.intlgame.com'
+  - '+.honorofkings.com'
