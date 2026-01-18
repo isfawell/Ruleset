@@ -1,0 +1,19 @@
+payload:
+  # --- Honor of Kings 核心域名 ---
+  - DOMAIN-SUFFIX,honorofkings.com
+  - DOMAIN-SUFFIX,levelinfinite.com
+  - DOMAIN-SUFFIX,intlgame.com
+  - DOMAIN-SUFFIX,proximabeta.com
+  - DOMAIN-SUFFIX,igamecj.com
+  - DOMAIN-SUFFIX,gcloud.com
+  
+  # --- 登录与社交授权 ---
+  - DOMAIN-SUFFIX,facebook.com
+  - DOMAIN-SUFFIX,facebook.net
+  - DOMAIN-SUFFIX,ggpht.com
+  - DOMAIN-SUFFIX,googleusercontent.com
+  - DOMAIN-KEYWORD,google
+  
+  # --- 腾讯海外游戏常用 CDN 与 API ---
+  - DOMAIN-SUFFIX,tgpa.intlgame.com
+  - DOMAIN-SUFFIX,cloud.v6.intlgame.com
