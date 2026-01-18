@@ -2,6 +2,7 @@ payload:
   # --- Honor of Kings 核心域名 ---
   - DOMAIN-SUFFIX,honorofkings.com
   - DOMAIN-SUFFIX,levelinfinite.com
+  - DOMAIN-SUFFIX,sgameglobal.com
   - DOMAIN-SUFFIX,intlgame.com
   - DOMAIN-SUFFIX,proximabeta.com
   - DOMAIN-SUFFIX,igamecj.com
