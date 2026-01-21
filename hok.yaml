@@ -1,0 +1,24 @@
+payload:
+  # --- 游戏核心与腾讯海外 (涵盖了所有 intlgame/levelinfinite 下的子域名) ---
+  - DOMAIN-SUFFIX,honorofkings.com
+  - DOMAIN-SUFFIX,sgameglobal.com
+  - DOMAIN-SUFFIX,levelinfinite.com
+  - DOMAIN-SUFFIX,intlgame.com
+  - DOMAIN-SUFFIX,itopgame.com
+  - DOMAIN-SUFFIX,infinitelobby.com
+  - DOMAIN-SUFFIX,proximabeta.com
+  - DOMAIN-SUFFIX,p-beta.com
+  - DOMAIN-SUFFIX,igamecj.com
+  - DOMAIN-SUFFIX,gcloud.com
+  - DOMAIN-SUFFIX,aj-report.com
+
+  # --- 登录授权 (精确匹配) ---
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,googleusercontent.com
+  - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,ggpht.com
+  - DOMAIN-SUFFIX,facebook.com
+  - DOMAIN-SUFFIX,facebook.net
+
+  # --- 三方归因检测 (防止 IP 泄露) ---
+  - DOMAIN-SUFFIX,appsflyer.com
