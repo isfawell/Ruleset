@@ -1,28 +1,28 @@
 payload:
-  # --- 游戏核心与腾讯海外 ---
+  # --- 游戏核心域名 (HOK & Sgame) ---
   - DOMAIN-SUFFIX,honorofkings.com
   - DOMAIN-SUFFIX,sgameglobal.com
+  - DOMAIN-SUFFIX,hok5v5.com
+  
+  # --- 发行与鉴权 (Level Infinite & Intlgame) ---
   - DOMAIN-SUFFIX,levelinfinite.com
   - DOMAIN-SUFFIX,intlgame.com
-  - DOMAIN-SUFFIX,itopgame.com
-  - DOMAIN-SUFFIX,infinitelobby.com
-  - DOMAIN-SUFFIX,proximabeta.com
-  - DOMAIN-SUFFIX,p-beta.com
-  - DOMAIN-SUFFIX,igamecj.com
-  - DOMAIN-SUFFIX,gcloud.com
-  - DOMAIN-SUFFIX,aj-report.com
-  - DOMAIN-SUFFIX,appsflyersdk.com
-  - DOMAIN-SUFFIX,wetest.net       
-  - DOMAIN-SUFFIX,gtimg.com
+  - DOMAIN-SUFFIX,playerinfinite.com
+  - DOMAIN-SUFFIX,singaporepaya.com
   
-  # --- 登录授权 (精确匹配) ---
-  - DOMAIN-SUFFIX,googleapis.com
-  - DOMAIN-SUFFIX,googleusercontent.com
-  - DOMAIN-SUFFIX,gstatic.com
-  - DOMAIN-SUFFIX,ggpht.com
-  - DOMAIN-SUFFIX,facebook.com
-  - DOMAIN-SUFFIX,facebook.net
+  # --- 腾讯游戏底层服务 (必须接管防止直连泄露) ---
+  - DOMAIN-SUFFIX,itopgame.com
+  - DOMAIN-SUFFIX,proximabeta.com
+  - DOMAIN-SUFFIX,gcloudcs.com
+  - DOMAIN-SUFFIX,iegcom.com
+  - DOMAIN-SUFFIX,tdos.vip
+  - DOMAIN-SUFFIX,wetest.net
 
-  # --- 三方归因检测 (防止 IP 泄露) ---
-  - DOMAIN-SUFFIX,appsflyer.com
+  # --- 三方上报与归因 (地区识别雷区) ---
   - DOMAIN-SUFFIX,appsflyersdk.com
+  - DOMAIN-SUFFIX,appsflyer.com
+
+  # --- 第三方登录 ---
+  - DOMAIN-SUFFIX,facebook.com
+  - DOMAIN-SUFFIX,googleusercontent.com
+  - DOMAIN-SUFFIX,googleapis.com
